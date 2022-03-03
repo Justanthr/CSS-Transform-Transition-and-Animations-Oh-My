@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS Animations</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="code-along.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="transform-demo">
+        <h2>Transform Demo</h2>
+        <div></div><h3>hide me</h3>
+      </div>
+      <div class="transition-demo">
+        <h2>Transition Demo</h2>
+        <div class="cards">
+          <div class="card">
+            <img src="./assets/bouquet-card-for-special-occasion-creative-watercolor/1052.jpg" alt="floral card">
+              <dl class="">
+                <dt>Floral Card</dt>
+                <dd>$99.99</dd>
+                <dd><a href="http://www.freepik.com">Designed by photographeeasia / Freepik</a></dd>
+              </dl>
+          </div>
+          <div class="card">
+            <img src="./assets/floral-card/91231.jpg" alt="floral card">
+              <dl class="">
+                <dt>Floral Card</dt>
+                <dd>$99.99</dd>
+                <dd><a href="http://www.freepik.com">Designed by rawpixel.com / Freepik</a></dd>
+              </dl>
+          </div>
+        </div>
+      </div>
+      <div class="animation-demo">
+        <h2>Animation Demo</h2>
+        <div class="countdown">
+          <h3>Hurry! Sale ends soon!</h3>
+          <div class="bar">
 
-You can use the [editor on GitHub](https://github.com/Justanthr/CSS-Transform-Transition-and-Animations-Oh-My/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Justanthr/CSS-Transform-Transition-and-Animations-Oh-My/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
