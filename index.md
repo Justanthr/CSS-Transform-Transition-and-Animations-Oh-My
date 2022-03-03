@@ -9,8 +9,8 @@
         <nav>
         <ul>
           <li><a href="animation-activity/index.html">Animation</a></li>
-          <li><a href="#">about</a></li>
-          <li><a href="#">contact</a></li>
+          <li><a href="transform-activity/index.html">Transformation</a></li>
+          <li><a href="transition-activity/index.html">transition</a></li>
         </ul>
       </nav>
   </body>
